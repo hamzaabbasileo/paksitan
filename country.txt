@@ -1,2 +1,8 @@
 
 I created country file
+Province
+Sindh
+Punjab
+Baochistan
+Quetta
+Gilgit
