@@ -6,4 +6,3 @@ Punjab
 Baochistan
 Quetta
 Gilgit
-Adding cities to master
